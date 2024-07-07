@@ -1,1 +1,1 @@
-npm install --save tom-script-lib
+`npm install --save tom-script-lib`
